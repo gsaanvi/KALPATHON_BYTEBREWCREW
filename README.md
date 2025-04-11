@@ -4,7 +4,7 @@
 What software solutions could help users maintain healthier and more intentional screen time?
 In an increasingly digital world, maintaining healthy and intentional screen time is a significant challenge, especially for young adults. Excessive screen time can lead to decreased productivity, poor mental health, and disrupted sleep patterns.
 
-## Our Idea
+## Our Idea (Screen Time Tracker with unique reward system)
 
 We are developing a web application that helps users track their screen time while encouraging healthier habits through a unique point reward system. Key features include:
 
